@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaFxSecondTime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaFxSecondTime_jar</output-path>
+    <root id="archive" name="javaFxSecondTime.jar">
+      <element id="module-output" name="javaFxSecondTime" />
+    </root>
+  </artifact>
+</component>
